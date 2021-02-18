@@ -1,4 +1,4 @@
-# Arvore_KNN_BreastCancer
+# Árvore de Classificação e Algoritmo KNN - BreastCancer
 
 
 O câncer de mama é o tipo de câncer mais prevalente encontrado em mulheres em todo o mundo, bem como uma das principais causas de morte entre elas. Pesquisas recentes mostram que este tipo de câncer é um dos que mais avançam mundialmente em termos de  novos casos, trazendo grande preocupação às autoridades de saúde quanto à formulação de políticas públicas, conscientização sobre os fatores de risco e detecção precoce e regular. Esforços da comunidade científica na detecção preditiva, classificação de malignidade e tratamento eficaz desta doença também tem sido exaustivamente realizados, tanto no campo da medicina ou farmacologia clássica quanto na área da bioinformática e biologia computacional, empenhados no objetivo de  reduzir a mortalidade por câncer de mama.
